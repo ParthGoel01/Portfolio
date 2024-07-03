@@ -2,7 +2,7 @@ import React from 'react';
 import { AiFillGithub, AiOutlineMail} from "react-icons/ai";
 import { FaLinkedinIn } from "react-icons/fa";
 import Social from '../../components/Social';
-import Avatar from '../../Assets/avatar.svg';
+import Avatar from '../../Assets/avatar.png';
 
 const Home2 = () => {
   return (
