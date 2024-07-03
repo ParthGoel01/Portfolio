@@ -5,6 +5,10 @@
     --font-family: "Raleway",serif;
 }
 
+.particles{
+    z-index: -1;
+}
+
 *{
     margin: 0;
     padding: 0;
@@ -269,6 +273,9 @@ a{
     width: 60%;
     font-size: 1.2rem;
     line-height: 30px;
+}
+.home2_avatar, .home_img_section,.about_img{
+    z-index: 2;
 }
 .home2_head{
     font-size: 2.5rem;
